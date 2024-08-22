@@ -1,4 +1,4 @@
-import dbClient from '../db';
+import dbClient from '../config/db';
 import User from '../models/userModel'
 
 
